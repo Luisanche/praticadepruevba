@@ -3,8 +3,8 @@ package comares.ciclodaw.entornosdesarrollo;
 public class calculadora {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+System.out.println("suma ");
+System.out.println("resta");
 	}
 
 }
